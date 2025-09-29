@@ -2,96 +2,158 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Claudio Aracena
+    - name: Email
+      value: <a href="mailto:claudio.aracena@uai.cl">claudio.aracena@uai.cl</a>
+    - name: Website
+      value: <a href="https://claudioaracena.com">claudioaracena.com</a>
+    - name: Location
+      value: Santiago, Chile
     - name: Languages
-      value: English, German
+      value: Spanish (native), English (advanced)
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - title: PhD in Engineering Systems
+      institution: University of Chile, Santiago, Chile
+      year: 2021 - 2024
+    - title: Master of Information Technology and Master of Information Technology Management
+      institution: University of Sydney, Sydney, Australia
+      year: 2015 - 2017
+    - title: Industrial Engineering, Major in Information Technology (with highest distinction)
+      institution: University of Chile, Santiago, Chile
+      year: 2008 - 2013
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Associate Researcher
+      institution: GobLab UAI - Adolfo Ibanez University, Santiago, Chile
+      year: Jan 2022 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Lead data science work for public sector projects, focusing on clinical NLP and air pollution forecasting initiatives.
+    - title: Data Science Consultant
+      institution: Chilean Safety Association, Santiago, Chile
+      year: Oct 2022 - Present
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Design and pre-train Spanish clinical language models and related applications.
+    - title: Data Scientist
+      institution: GobLab UAI - Adolfo Ibanez University, Santiago, Chile
+      year: Oct 2019 - Dec 2021
       description:
+        - Delivered analytics supporting grant applications and Congress bill analysis using natural language processing.
+    - title: Fellow
+      institution: Data Science for Social Good Fellowship, Kaiserslautern, Germany
+      year: Jun 2023 - Sep 2023
+      description:
+        - Built early relocation models to reduce response times for Red Cross ambulance teams.
+    - title: Co-founder
+      institution: Chatbot Chile, Santiago, Chile
+      year: Jul 2017 - Present
+      description:
+        - Developed custom chatbots and administration dashboards for local clients.
+    - title: Project Engineer
+      institution: Center for Mathematical Modeling - University of Chile, Santiago, Chile
+      year: Oct 2018 - Sep 2019
+      description:
+        - Predicted medical appointment no-shows for Luis Calvo Mackenna Hospital using machine learning models.
+    - title: Associate Software Developer
+      institution: Data61, Commonwealth Scientific and Industrial Research Organisation, Sydney, Australia
+      year: Oct 2015 - Dec 2016
+      description:
+        - Built software for multimodal freight optimization within the 64knots team.
+    - title: Research Intern
+      institution: VSB - Technical University of Ostrava, Ostrava, Czech Republic
+      year: Oct 2014 - Jan 2015
+      description:
+        - Explored links between pupil dilation and emotional response with neural network analysis.
+    - title: Project Engineer
+      institution: Web Intelligence Centre - University of Chile, Santiago, Chile
+      year: 2014
+      description:
+        - Investigated connections between EEG, pupil dilation, and emotions, and coordinated AKORI project reporting.
+    - title: Intern
+      institution: Infosys Limited, Bangalore, India
+      year: Jan 2013 - Mar 2013
+      description:
+        - Developed a tweet classification pipeline, including data modeling and database implementation.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Teaching Experience
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Academic Director
+      institution: Adolfo Ibanez University, School of Government, Santiago, Chile
+      year: 2023 - Present
+      description:
+        - Oversee curriculum for the Diploma of Data Science for Public Policy.
+    - title: Lecturer
+      institution: Adolfo Ibanez University, School of Government, Santiago, Chile
+      year: 2020 - Present
+      description:
+        - Teach Machine Learning, Text Mining, and Data Science Project Scoping courses.
+    - title: Lecturer
+      institution: University of Development, Faculty of Engineering, Santiago, Chile
+      year: 2018 - 2022
+      description:
+        - Led the Storage and Data Capture course in the Master of Data Science program.
+    - title: Trainer
+      institution: Intersect Australia, Sydney, Australia
+      year: Feb 2018 - Aug 2018
+      description:
+        - Delivered live-coding workshops on Python, R, SQL, MATLAB, Bash, and Git.
+    - title: Lecturer
+      institution: University of Chile, Department of Industrial Engineering, Santiago, Chile
+      year: Mar 2014 - Jul 2014
+      description:
+        - Taught the Data Warehousing course.
+    - title: Teaching Assistant
+      institution: University of Chile, Department of Industrial Engineering, Santiago, Chile
+      year: 2012 - 2013
+      description:
+        - Supported Information Technologies, Web Mining, Knowledge Management, and Web and Business courses.
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
+- title: Selected Publications
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Journal Papers
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Dunstan, J., Vakili, T., Miranda, L., Villena, F., Aracena, C., Quiroga, T., Vera, P., Viteri, S., Rocco, V. (2024). A pseudonymized corpus of occupational health narratives for clinical entity recognition in Spanish. <i>BMC Medical Informatics and Decision Making</i>, 24(1), 204.
+        - Aracena, C., Villena, F., Arias, F., Dunstan, J. (2022). Aplicaciones de aprendizaje automatico en salud. <i>Revista Medica Clinica Las Condes</i>, 33(6), 568-575.
+    - title: Conference Papers
       items:
-        - Description 1.
-        - Description 2.
+        - Garcia-Flores, R., Banerjee, S., Mathews, G., Vacher, B., Thorne, B., Borhan, N., Aracena, C., Tyshetskiy, Y. (2017). Analysis of Demand and Operations of Inter-modal Terminals. <i>National Conference of the Australian Society for Operations Research</i>.
+        - Oweis, N. E., Aracena, C., George, W., Oweis, M., Soori, H., Snasel, V. (2016). Internet of Things: Overview, Sources, Applications and Challenges. <i>Second International Afro-European Conference for Industrial Advancement</i>.
+        - Aracena, C., Basterrech, S., Snasel, V., Velasquez, J. D. (2015). Neural Networks for Emotion Recognition Based on Eye Tracking Data. <i>IEEE International Conference on Systems, Man, and Cybernetics</i>.
+        - Slanzi, G., Aracena, C., Velasquez, J. D. (2015). Eye Tracking and EEG Features for Salient Web Object Identification. <i>International Conference on Brain Informatics & Health</i>.
+    - title: Workshop Papers
+      items:
+        - Aracena, C., Miranda, L., Vakili, T., Villena, F., Quiroga, T., Nunez-Torres, F., Rocco, V., Dunstan, J. (2024). A Privacy-Preserving Corpus for Occupational Health in Spanish: Evaluation for NER and Classification Tasks. <i>Clinical NLP Workshop at NAACL</i>.
+        - Aracena, C., Rodriguez, N., Rocco, V., Dunstan, J. (2023). Pre-trained Language Models in Spanish for Health Insurance Coverage. <i>Clinical NLP Workshop at ACL</i>.
+        - Aracena, C., Dunstan, J. (2023). Development of Pre-trained Language Models for Clinical NLP in Spanish. <i>Student Research Workshop at EACL</i>.
+        - Aracena, C., Villena, F., Rojas, M., Dunstan, J. (2022). A Knowledge-Graph-Based Intrinsic Test for Benchmarking Medical Concept Embeddings and Pretrained Language Models. <i>LOUHI Workshop at EMNLP</i>.
+        - Aracena, C., Loyola, P., Slanzi, G., Matsuo, Y., Velasquez, J. D. (2015). Towards a Unified Replication Framework for EEG-based Emotion Classification. <i>BrainKDD Workshop at ACM SIGKDD</i>.
+    - title: Policy Papers
+      items:
+        - Denis, G., Hermosilla, M. P., Aracena, C., Sanchez, A. R., Gonzalez, N., Pombo, C. (2021). Responsible use of AI for public policy: Project formulation manual. <i>Inter-American Development Bank Publications</i>.
 
-- title: Other Interests
+- title: Core Technical Skills
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Programming:</u> Python, R, JavaScript, SQL, PHP, Java, MATLAB, LaTeX
+    - <u>Frameworks:</u> PyTorch, Hugging Face, Django, WordPress, AWS, Docker, Git
+    - <u>Tools:</u> Microsoft Excel, Word, PowerPoint
+    - <u>Operating Systems:</u> Ubuntu, Windows
+
+- title: Distinctions
+  type: time_table
+  contents:
+    - year: 2021 - 2024
+      items:
+        - ANID Scholarship for National PhD Programs
+    - year: 2015 - 2017
+      items:
+        - Conicyt Becas Chile Scholarship
+    - year: 2007 - 2013
+      items:
+        - University of Chile Scholarship (top 100 students in cohort)
