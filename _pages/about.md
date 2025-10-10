@@ -10,7 +10,8 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p><a href='mailto:claudio.aracena@uai.cl'>claudio.aracena@uai.cl</a></p>
-    <p>GobLab UAI, Adolfo Ibanez University</p>
+    <p>Business School</p>
+    <p>Adolfo Ibanez University</p>
     <p>Santiago, Chile</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"

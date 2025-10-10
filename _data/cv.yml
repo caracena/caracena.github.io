@@ -9,8 +9,6 @@
       value: <a href="https://claudioaracena.com">claudioaracena.com</a>
     - name: Location
       value: Santiago, Chile
-    - name: Languages
-      value: Spanish (native), English (advanced)
 
 - title: Education
   type: time_table
