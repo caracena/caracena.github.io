@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Academic at the Business School of Adolfo Ibáñez University
+subtitle: Assistant Professor at the Business School of Adolfo Ibáñez University
 
 profile:
   align: right
