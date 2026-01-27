@@ -26,36 +26,31 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Associate Researcher
-      institution: GobLab UAI - Adolfo Ibanez University, Santiago, Chile
-      year: Jan 2022 - Present
-      description:
-        - Lead data science work for public sector projects, focusing on clinical NLP and air pollution forecasting initiatives.
     - title: Assistant Professor
       institution: Business School - Adolfo Ibanez University, Chile
       year: Sep 2025 - Present
       description:
         - Teaching and research in the Operations and Analytics group.
+    - title: Associate Researcher
+      institution: GobLab UAI - Adolfo Ibanez University, Santiago, Chile
+      year: Jan 2022 - Present
+      description:
+        - Collaboration in public sector projects.
     - title: Data Science Consultant
       institution: Chilean Safety Association, Santiago, Chile
       year: Oct 2022 - Jan 2025
       description:
         - Design and pre-train Spanish clinical language models and related applications.
-    - title: Data Scientist
-      institution: GobLab UAI - Adolfo Ibanez University, Santiago, Chile
-      year: Oct 2019 - Dec 2021
-      description:
-        - Delivered analytics supporting grant applications and Congress bill analysis using natural language processing.
     - title: Fellow
       institution: Data Science for Social Good Fellowship, Kaiserslautern, Germany
       year: Jun 2023 - Sep 2023
       description:
         - Built early relocation models to reduce response times for Red Cross ambulance teams.
-    - title: Co-founder
-      institution: Chatbot Chile, Santiago, Chile
-      year: Jul 2017 - Present
+    - title: Data Scientist
+      institution: GobLab UAI - Adolfo Ibanez University, Santiago, Chile
+      year: Oct 2019 - Dec 2021
       description:
-        - Developed custom chatbots and administration dashboards for local clients.
+        - Support grant applications and lead data science work for public sector projects, focusing on clinical NLP and air pollution forecasting initiatives.
     - title: Project Engineer
       institution: Center for Mathematical Modeling - University of Chile, Santiago, Chile
       year: Oct 2018 - Sep 2019
