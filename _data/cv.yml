@@ -116,6 +116,8 @@
   contents:
     - title: Journal Papers
       items:
+        - Miranda, L., Vakili, T., Aracena, C., Villena, F., Dunstan, J. (2026). Conditional synthesis of training data for clinical NLP tasks in Spanish and English. <i>BMC Medical Informatics and Decision Making</i>. Accepted.
+        - Retamales, J., Aracena, C., Aguilera Beovides, L., Cook, C., Lavin, A., Lira, F., Marquez, J., Olivares-Hurtado, L., Tobar Bastias, M. J., Uribe, V., Vildoso, F., Zlatar, Z., Iturrieta-Guaita, N. (2026). Improving patient-reported end-of-life data capture: A pilot mixed-methods evaluation of an electronic patient reported outcomes chatbot platform using messaging applications from bereaved caregivers in Chile. <i>JCO Global Oncology</i>.
         - Dunstan, J., Vakili, T., Miranda, L., Villena, F., Aracena, C., Quiroga, T., Vera, P., Viteri, S., Rocco, V. (2024). A pseudonymized corpus of occupational health narratives for clinical entity recognition in Spanish. <i>BMC Medical Informatics and Decision Making</i>, 24(1), 204.
         - Aracena, C., Villena, F., Arias, F., Dunstan, J. (2022). Aplicaciones de aprendizaje automatico en salud. <i>Revista Medica Clinica Las Condes</i>, 33(6), 568-575.
     - title: Conference Papers
